@@ -1,1 +1,1 @@
-This is my training Repo
+A machine learning model to predict which passenger survive the titanic ship wreck.
